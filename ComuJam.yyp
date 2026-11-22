@@ -21,6 +21,7 @@
   },
   "name":"ComuJam",
   "resources":[
+    {"id":{"name":"sla","path":"objects/sla/sla.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
