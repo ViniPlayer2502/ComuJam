@@ -9,9 +9,7 @@
     "name":"Default",
   },
   "defaultScriptType":1,
-  "Folders":[
-    {"$GMFolder":"","%Name":"porno","folderPath":"folders/porno.yy","name":"porno","resourceType":"GMFolder","resourceVersion":"2.0",},
-  ],
+  "Folders":[],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
@@ -21,7 +19,6 @@
   },
   "name":"ComuJam",
   "resources":[
-    {"id":{"name":"sla","path":"objects/sla/sla.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
