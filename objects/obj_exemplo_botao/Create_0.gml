@@ -9,7 +9,6 @@ escala_txt = 1;
 val_cor = 0;
 
 
-
 minha_funcao = function()
 {
     
